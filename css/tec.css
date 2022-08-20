@@ -1,0 +1,33 @@
+.aa{
+border:solid;height:636px;width:357px;
+background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+background-size:cover;
+}
+.bb{
+border: solid;
+height: 200px;
+width: 357px;
+margin-bottom: 430px;
+margin-top: 430px;
+background-color: white;
+}
+p{
+font-size: 30px;
+color: #5752ab;
+margin-bottom: 10px;
+}
+h3{
+color :black;
+}
+.b1{
+background-color: #5752ab;
+color: white;
+margin-left: 80px;
+height: 30px;
+}
+.a1{
+height: 30px;
+margin-left: 10px;
+}
+
+

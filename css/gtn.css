@@ -1,0 +1,22 @@
+.par1{text-align: left;
+color:red;
+}
+.par2{text-align:right;
+color:blue;
+}
+.par3{text-align:center;
+color:green;
+}
+#aa
+{width:100px;
+height:100px;
+}
+#bb
+{width:100px;
+height:100px;
+}
+#cc
+{width:100px;
+height:100px;
+}
+h1{text-align:center;}
