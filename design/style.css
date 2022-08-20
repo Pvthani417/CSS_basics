@@ -1,0 +1,56 @@
+.bb{
+    color:white;
+    padding: 70px;
+
+}
+
+.aa{
+    background-image:url("https://cdn.pixabay.com/photo/2016/10/18/21/22/beach-1751455_960_720.jpg");
+
+background-repeat: no-repeat;
+
+background-size: 1300px;
+}
+ol li{
+    display: inline-block;
+    color:white;
+     padding-left: 100px;
+}
+
+.cc{
+    background-color: rgb(224, 152, 16);
+    color:white;
+}
+label{
+    display: inline-block;
+    color: white;
+}
+button{
+    color:white;
+    background-color: orange;
+}
+.form1{
+    color:white;
+
+}
+ul li{
+    display: inline-block; padding:20px;
+    color:white;
+}
+.card{ 
+
+    height:20px;
+    width:20px;
+}
+.u1{
+    float:right;
+}
+.u2{
+    float: right;
+}
+
+
+
+
+
+
