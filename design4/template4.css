@@ -1,0 +1,130 @@
+.card{
+    background-color: rgb(75, 75, 82);
+    border:solid;
+    border-color: black;
+height:998px;
+width:1000px;
+margin-left:120px;
+}
+.c1{
+    border:solid;
+    border-color: black;
+    color:white;
+    
+}
+.c1 p{
+    color:orange;font-size: 20px;
+    text-align: center;
+}
+.c1 h1{
+    text-align:center
+    
+}
+.card2{
+    border:solid;
+    border-color:black;
+    color:white;
+    height:300px; 
+}
+.card2 p{
+    color:yellow;
+    text-align: center;
+}
+.card2 h1{
+    text-align: center;
+    color:white;
+}
+table{
+    color:white;
+    padding:20px;
+    text-align: justify;
+}
+.card2 table{
+    padding:10px;
+    font-size:15px;
+    text-align: center;
+}
+button{
+    background-color: yellow;
+}
+
+
+.card3{
+    font-size: 10px;
+    height: 600px;
+    width: 1000px;
+}
+input{
+    width:500px;
+}
+ h2{
+    font-size: 100px;
+    margin-top: -70px;
+    color:yellow;
+ }
+ .c3{
+    color:yellow;
+ }
+ ul{
+    font-size: 30px;
+    color:white;
+    list-style-type: none;
+    margin-top: -190px;
+    margin-left: 180px;
+ }
+ ul:last-child{
+    /* text-align: center; */
+    margin-top: -412PX;
+    color:white;
+    margin-left: 500px;
+    
+ }
+
+ i{
+    font-size: 18px;
+    margin-right: 10px;
+ }
+ .card3{
+    /* border:solid */
+    height: 300px;
+    width: 1000px;
+    background-image: url("https://previews.123rf.com/images/vadimgozhda/vadimgozhda1808/vadimgozhda180801454/107273103-successful-business-team-congratulating-colleague-group-of-young-happy-collegues-celebrating-in-mode.jpg");
+    
+    
+ }
+ .t{
+    text-align: center;
+    color: gold;
+    font-size: 20px;
+ }
+ .u{
+    text-align: center;
+    color: white;
+    font-size: 10px;
+ }
+ .v{
+    position: absolute;
+    margin-right: 230px;
+    margin-left: 230px;
+ }
+ .a{
+    list-style: none;
+    display: inline-block;
+    margin-bottom: 70px;
+    margin-top: 70px;
+    font-size: 20px;
+    margin-right: 30px;
+    margin-left: 30px;
+ }
+ .w{
+    color: yellow;
+    
+ }
+ ol li{
+    color: black;
+ }
+ .a1{
+    font-size: 80px;
+    color: yellow;
+    margin-top: -50px;
+ }
