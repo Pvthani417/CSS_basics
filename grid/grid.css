@@ -1,0 +1,43 @@
+
+.item1{
+    grid-area:header;
+}
+.item2{
+    grid-area:menu;
+}
+.item3{
+    grid-area:main;
+}
+.item4{
+    grid-area:right;
+}
+.item5{
+    grid-area:footer;
+}
+.aa{
+    display:grid;
+    grid-template-areas:
+    'header header header header header header'
+    'menu main main main right right'
+    'menu footer footer footer footer footer';
+    gap:20px;
+    background-color: brown;
+    padding:30px;
+}
+.aa>div{
+    background-color: darkgoldenrod;
+    text-align: center;
+    padding:20px 30px;
+    font-size: 30px;
+    text-align: justify;
+}
+h1{
+    color:olivedrab;
+    text-align: center;
+    text-decoration:underline;
+}
+.bb{
+    color:crimson;
+}
+
+

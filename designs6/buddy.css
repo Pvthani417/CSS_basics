@@ -1,0 +1,147 @@
+
+.col-1{
+    width:8.33%; 
+}
+.col-2{
+   width:16.66%; 
+}
+.col-3{
+   width:25%; 
+}
+.col-4{
+   width:33.33%; 
+}
+.col-5{
+   width:41.66%; 
+}
+.col-6{
+   width:50%; 
+}
+.col-7{
+   width:58.33; 
+}
+.col-8{
+   width:66%;
+}
+.col-9{
+   width:75%; 
+}
+.col-10{
+   width:83.33%; 
+}
+.col-11{
+   width:91.66%; 
+}
+.col-12{
+   width:100%;}
+[class*="col-"]{
+
+}
+.main{
+    background-color:rgb(0, 167, 245);
+}
+.header{
+    display:flex;
+    background-color: rgb(207, 224, 223);
+}
+.section{
+background-color: rgb(8, 8, 75);
+color:white;
+    height:1200px;
+    display:block;
+    list-style-type: none;
+}
+.contant{
+    
+    height:700px;
+    display: inline-block;
+    list-style-type: none;
+    text-align: left;
+    font-size: 30px ;
+
+}
+.left{
+    background-color: maroon;
+    height:1200px;
+    display:block;
+    list-style-type: none;
+    color:white;
+}
+.aa{
+    display: inline-block;
+    width:100%;
+}
+.main ul li{
+display :inline-block;
+padding:30px;
+}
+.bb{
+    width:500px;
+    margin-left: 70px;
+    border-radius: 30px;
+
+}
+h3{
+    display: inline-block;
+    font-size: 20px;
+    
+    
+}
+.dd{
+    margin-left: 130px;
+    background-color:rgb(0, 0, 255) ;
+    width:100px;
+    height:50px;
+}
+h6{
+margin-top: -70px;
+}
+.card{
+    border-style: none;
+    height:600px;
+    width:200px;
+    margin-left: 30px;
+    
+    background-color: pink;
+
+    
+}
+.card2{
+    
+    height:600px;
+    width:200px;
+    margin-left: 280px;
+    margin-top: -230px;
+    background-color: darksalmon;
+}
+.card3{
+    border-style: none;
+    height:600px;
+    width:200px;
+    margin-left: 550px;
+    margin-top: -640px;
+    background-color: palevioletred;
+}
+.c5 {
+    font-size: 10px;
+}
+/* .c8{
+    font-size: 10px;
+} */
+.c7{
+    font-size: 10px;
+}
+button{
+    background-color: rgba(241, 241, 23, 0.904);
+    margin-left: 20px;
+}
+img{
+    margin-left: 5px;
+    height: 300px;
+    width:100%;
+}
+.ab{
+    height:20px;
+    width: 20px;
+    margin-right: 30px;
+}
